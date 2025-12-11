@@ -18,14 +18,6 @@ This project is ideal for **fresher SQL Developer / Data Analyst roles**, showca
 
 ---
 
-## ER Diagram
-![ER Diagram](ERD.png)
-
-- Shows relationships between **Patients, Doctors, Departments, Billing, Appointments, and Medical Records**.  
-- Helps visualize database structure and foreign key relationships.  
-
----
-
 ## SQL Queries Implemented
 This project demonstrates **industry-level SQL queries** using real-world hospital scenarios.  
 Key topics covered:
